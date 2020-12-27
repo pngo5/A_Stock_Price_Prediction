@@ -2,7 +2,7 @@ Docker helps--->
 
 Requirements: anaconda3:4.4.0
 
-Don't copy and paste the given you URL after you pasted in
+Don't copy and paste the given you URL, remember to use the actual docker applications!
 
 
 https://towardsdatascience.com/how-to-run-jupyter-notebook-on-docker-7c9748ed209f
