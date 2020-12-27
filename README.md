@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Docker helps--->
 
@@ -15,3 +16,6 @@ Using LSTM to create a prediction for the future price of VERU
 What is LSTM?----->
 https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 
+=======
+
+>>>>>>> 9979a4508d13d259982c17e5e58e2edd46485f22
