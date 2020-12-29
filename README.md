@@ -14,18 +14,15 @@ Using LSTM to create a prediction for the future price of VERU
 What is LSTM?----->
 https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 
-#ERROR 
-Find a way to get keras, and tensorflow to work on the dockfile:
-import tensorflow 
-import keras
-from keras.models import Sequential
-from keras.layers import Dense, LSTM
+#Version number:
 
-#Imports that are working right now
-import math
-import sklearn
-import matplotlib
-import pandas_datareader as web
-import numpy as np
-import pandas as pd
+sklearn 0.24.0
+tensorflow 1.8.0
+matplotlib 3.3.3
+keras 2.2.0
+pandas_datareader 0.9.0
+numpy 1.19.4
+pandas 1.1.3
 
+#Docker command:
+docker run -it -p 8888:8888 model --allow-root
