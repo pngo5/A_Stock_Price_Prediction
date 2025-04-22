@@ -98,7 +98,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support and Contact
 - **GitHub Repository**: [https://github.com/pngo5/A_Stock_Price_Prediction](https://github.com/pngo5/A_Stock_Price_Prediction)
 - **Report Issues**: [https://github.com/pngo5/A_Stock_Price_Prediction/issues](https://github.com/pngo5/A_Stock_Price_Prediction/issues)
-- **Email**: pngo5@example.com (replace with your actual email)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
