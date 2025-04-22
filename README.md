@@ -93,7 +93,18 @@ The model's performance is evaluated using standard metrics for regression tasks
 - [Jupyter Lab on Docker with Windows](https://medium.com/@alexjsanchez/jupyter-lab-on-docker-with-windows-368a24e18d0)
 
 ## License
-[Specify your chosen license]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-[Your contact information]
+## Support and Contact
+- **GitHub Repository**: [https://github.com/pngo5/A_Stock_Price_Prediction](https://github.com/pngo5/A_Stock_Price_Prediction)
+- **Report Issues**: [https://github.com/pngo5/A_Stock_Price_Prediction/issues](https://github.com/pngo5/A_Stock_Price_Prediction/issues)
+- **Email**: pngo5@example.com (replace with your actual email)
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
